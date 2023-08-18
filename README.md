@@ -10,11 +10,11 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [TestVideo](#testGeneratorVideo/demostrationlink)
+  - [TestVideo](#testVideo)
   - [License](#license)
   - [Questions](#questions)
   
-  ## Installation steps
+  ## Installation
   <ul>
 <li>1.Clone this repository to your local machine.</li>
 <li>2.Navigate to the project directory.</li>
@@ -24,9 +24,12 @@
   ## Usage
   
   Run the generator and answer the questions promped, once completed your new README file will be generated.
+
+  ## Contribution
+  for this project N/A
   
-  ## Test Generator Video / demostration link
-  
+  ## TestVideo
+
 https://clipchamp.com/watch/njU5ipPcp40
   
   ## License
