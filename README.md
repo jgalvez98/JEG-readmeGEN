@@ -4,7 +4,9 @@
 
   ## Description
   
-   Generate a README file with ease.
+   Generate a README file with ease using node in your terminal.
+   <img width="960" alt="readme-challenge09" src="https://github.com/jgalvez98/JEG-readmeGEN/assets/71774194/8c10b59d-fd45-4130-ba13-e7b52469ee8d">
+
   
   ## Table of Contents
   - [Installation](#installation)
