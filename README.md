@@ -10,18 +10,24 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
+  - [TestVideo](# Test Generator Video / demostration)
   - [License](#license)
-  - [Tests](#tests)
+  - [Questions](#questions)
   
   ## Installation steps
-    
-1.Clone this repository to your local machine.
-2.Navigate to the project directory.
-3.Run npm install to install the required dependencies.
+  <ul>
+<li>1.Clone this repository to your local machine.</li>
+<li>2.Navigate to the project directory.</li>
+<li>3.Run npm install to install the required dependencies</li>
+</ul>
 
   ## Usage
   
-  Run the generator and answer the questions promped, once completed your new README file will be generated
+  Run the generator and answer the questions promped, once completed your new README file will be generated.
+  
+  ## Test Generator Video / demostration link
+  
+https://clipchamp.com/watch/njU5ipPcp40
   
   ## License
   
@@ -30,5 +36,5 @@
   ## Questions
   <ul>
       <li> <a href="https://github.com/jgalvez98>Github Profile"> Github profile </a>  </li>
-      <li> <a href="mailto:jgalvez98@gmail.com">Email Me </a>  </li>
+      <li> <a href="mailto:jgalvez98@gmail.com"> Email Me </a>  </li>
   </ul>
