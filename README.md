@@ -10,7 +10,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [TestVideo](#Test Generator Video / demostration link)
+  - [TestVideo](#TestGeneratorVideo/demostrationlink)
   - [License](#license)
   - [Questions](#questions)
   
